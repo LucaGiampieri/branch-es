@@ -1,0 +1,11 @@
+# 1. Spostati sul ramo principale (o quello che riceverà le modifiche)
+git checkout main
+
+# 2. Aggiorna il ramo principale con l'ultima versione remota
+git pull origin main
+
+# 3. Fai il merge del ramo secondario (es. "feature-xyz") nel ramo corrente
+git merge feature-xyz
+
+# 4. Invia le modifiche al repository remoto
+git push origin main
