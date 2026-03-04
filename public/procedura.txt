@@ -1,4 +1,4 @@
-# 1. Spostati sul ramo principale (o quello che riceverà le modifiche)
+ br# 1. Spostati sul ramo principale (o quello che riceverà le modifiche)
 git checkout main
 
 # 2. Aggiorna il ramo principale con l'ultima versione remota
